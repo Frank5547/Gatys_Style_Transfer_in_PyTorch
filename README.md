@@ -5,4 +5,4 @@ The script can be used from command line (python Gatys_Style_Transfer.py). Just 
 
 A set of examples are included in the repository for reference (style_transferred_*.png)
 
-**NOTE** If you run the script from the command line, make sure you close the intermediate images as they pop up. These images are only shown to display the style transfer progress.
+**NOTE** If you run the script from the command line, make sure you close the intermediate images that pop up while the script runs. These images are only shown to display the style transfer progress.
