@@ -1,5 +1,5 @@
 """
-Gatys Style Transfer Replication
+Gatys Style Transfer Replication in PyTorch
 Author: Francisco Javier Carrera Arias
 Date: 01/28/2019
 References:
