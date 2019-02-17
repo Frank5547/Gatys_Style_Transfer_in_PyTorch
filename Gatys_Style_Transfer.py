@@ -165,6 +165,7 @@ style_transfer(target,styleGrams,contentFeatures,steps = 2500)
 fig, axes = plt.subplots(1, 2, figsize=(15, 15))
 axes[0].imshow(deNormalize(contentImage))
 axes[1].imshow(deNormalize(target))
+plt.show()
 
 # Ouput the final target image as a .png Enjoy!
 fig = plt.subplots(1,1,figsize = (20,20))
