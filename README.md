@@ -5,6 +5,6 @@ The script can be used from command line (python Gatys_Style_Transfer.py). Just 
 
 A set of examples of style-transferred images can be seen below:
 
-![Lambo-Original](Shiny_App_Example_1.png)
+![Lambo-Original](lambo.jpg) + ![Playful spring](playful spring.jpg) = ![Lambo-Style Transfer](Style transferred lambo.png)
 
 **NOTE** If you run the script from the command line, make sure you close the intermediate images that pop up while the script runs. These images are shown to display the style transfer progress as total loss decreases.
