@@ -8,6 +8,6 @@ A set of examples of style-transferred images can be seen below:
 Content Image               |  Style Image                        | Style Transfer                                  |
 ----------------------------|-------------------------------------|-------------------------------------------------|
 ![Lambo-Original](lambo.jpg)|![playful_spring](playful_spring.jpg)|![style transferred](Style_transferred_lambo.png)|
-![Fuji](Cherry_fuji.jpg)    |![munch](munch_scream.jpg)           |![style transferred](Style_transferred_fuji.png) |
+![Fuji](Cherry_Fuji.jpg)    |![munch](munch_scream.jpg)           |![style transferred](Style_transferred_fuji.png) |
 
 **NOTE** If you run the script from the command line, make sure you close the intermediate images that pop up while the script runs. These images are shown to display the style transfer progress as total loss decreases.
