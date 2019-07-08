@@ -5,8 +5,8 @@ The script can be used from command line (python Gatys_Style_Transfer.py). Just 
 
 A set of examples of style-transferred images can be seen below:
 
-Lambo Original              |  Playful Spring Painting            |
-----------------------------|-------------------------------------|
-![Lambo-Original](lambo.jpg)|![playful_spring](playful_spring.jpg)|
+Lambo Original              |  Playful Spring Painting            | Style Transfer Lambo                            |
+----------------------------|-------------------------------------|-------------------------------------------------|
+![Lambo-Original](lambo.jpg)|![playful_spring](playful_spring.jpg)|![style transferred](Style_transferred_lambo.png)|
 
 **NOTE** If you run the script from the command line, make sure you close the intermediate images that pop up while the script runs. These images are shown to display the style transfer progress as total loss decreases.
