@@ -7,7 +7,7 @@ A set of examples of style-transferred images can be seen below (The third examp
 
 Content Image               |  Style Image                        | Style Transfer                                  |
 ----------------------------|-------------------------------------|-------------------------------------------------|
-![Lambo-Original](lambo.jpg)|![playful_spring](playful_spring.jpg)|![style transferred](Style_transferred_lambo.png)|
+![Lambo-Original](lambo.jpg)|![playful_spring](playful_spring.jpg)||
 ![Fuji](Cherry_Fuji.jpg)    |![munch](munch_scream.jpg)           |![style transferred](Style_transferred_fuji.png) |
 ![Tubingen1](tubingen.jpeg) |![starry](starry_night.jpg)          |![Tubingen2](Style_transferred_Tubingen.png)
 
