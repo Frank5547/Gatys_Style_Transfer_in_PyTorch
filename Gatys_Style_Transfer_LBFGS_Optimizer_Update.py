@@ -1,7 +1,7 @@
 """
 Gatys Style Transfer Replication in PyTorch
 Author: Francisco Javier Carrera Arias
-Date: 01/28/2019
+Date: 07/09/2019
 References:
 Gatys, L. A., Ecker, A. S., & Bethge, M. (2016). Image Style Transfer Using Convolutional Neural Networks.
 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
