@@ -1,9 +1,9 @@
 # Gatys_Style_Transfer_in_PyTorch
 Performs style transfer between a content image and a style image as outlined in Gatys et al. (2016)
 
-The script can be used from command line (python Gatys_Style_Transfer.py). Just make sure to give the complete path to the image files when prompted (or just the name if they are in the same working directory).
+The script can be used from command line (python Gatys_Style_Transfer_LBFGS_Optimizer_Update.py). Just make sure to give the complete path to the image files when prompted (or just the name if they are in the same working directory).
 
-A set of examples of style-transferred images can be seen below:
+A set of examples of style-transferred images can be seen below (The third example was generated using the most recent update that uses theLBFGS optimizer):
 
 Content Image               |  Style Image                        | Style Transfer                                  |
 ----------------------------|-------------------------------------|-------------------------------------------------|
